@@ -43,6 +43,46 @@ const Services = () => {
         >
           JAVASCRIPT
         </h2>
+        <h2
+          data-aos="fade-down"
+          className="text-[26px] flex justify-center items-center
+         font-semibold text-fuchsia-800
+          rounded-3xl h-36 w-48 border-2 border-fuchsia-800 b_glow"
+        >
+          REACT
+        </h2>
+        <h2
+          data-aos="fade-down"
+          className="text-[26px] flex justify-center items-center
+         font-semibold text-fuchsia-800
+          rounded-3xl h-36 w-48 border-2 border-fuchsia-800 b_glow"
+        >
+          FIREBASE
+        </h2>
+        <h2
+          data-aos="fade-down"
+          className="text-[26px] flex justify-center items-center
+         font-semibold text-fuchsia-800
+          rounded-3xl h-36 w-48 border-2 border-fuchsia-800 b_glow"
+        >
+          NODE JS
+        </h2>
+        <h2
+          data-aos="fade-down"
+          className="text-[26px] flex justify-center items-center
+         font-semibold text-fuchsia-800
+          rounded-3xl h-36 w-48 border-2 border-fuchsia-800 b_glow"
+        >
+          EXPRESS
+        </h2>
+        <h2
+          data-aos="fade-down"
+          className="text-[26px] flex justify-center items-center
+         font-semibold text-fuchsia-800
+          rounded-3xl h-36 w-48 border-2 border-fuchsia-800 b_glow"
+        >
+          MONGODB
+        </h2>
       </div>
     </div>
   );
