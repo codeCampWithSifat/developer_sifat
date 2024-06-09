@@ -9,7 +9,7 @@ function Footer() {
   const year = date.getFullYear();
   return (
     <>
-      <footer className="py-12">
+      <footer className="py-12 text-gray-400">
         <div className="max-w-screen-2xl container mx-auto px-4 md:px-20">
           <div className=" flex flex-col items-center justify-center">
             <div className="flex space-x-4">
