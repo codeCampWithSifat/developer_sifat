@@ -16,10 +16,12 @@ const About = () => {
                 About Me
               </h2>
               <p data-aos="fade-right" className="text-base lg:text-lg">
-                Hello, Im Akhil, a passionate Web developer with a keen eye for
-                MERN Stack . With a background in IT, I strive to create
-                impactful and visually stunning Software solutions that leave a
-                lasting impression.
+                Hello, Im Sifat, a passionate Web developer with a keen eye for
+                MERN Stack . I Graduate From National University in (BBA).. Then
+                I moved in IT I always like to take challange, I also love to
+                learn new technology and finally I strive to create impactful
+                and visually stunning Software solutions that leave a lasting
+                impression.
               </p>
             </div>
           </div>

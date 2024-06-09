@@ -42,11 +42,13 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify ">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              Hi, I am Sayed Hossain Sifat, Are you looking for a professional
+              developer to build your website? Look no further as you have come
+              to the right place! With professional experience of more than 1.5
+              years in web development, I can make your website just the way you
+              want it! My specialization includes React js, Node js, Express js,
+              HTML/CSS, Tailwind, and Mongodb. I will make sure we build your
+              dream into an amazing reality together!
             </p>
             <br />
             {/* social media icons */}
@@ -55,12 +57,18 @@ function Home() {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank">
+                    <a
+                      href="https://www.facebook.com/sayedhossain.sifat.7/"
+                      target="_blank"
+                    >
                       <FaSquareFacebook className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/sayed-hossain-sifat/"
+                      target="_blank"
+                    >
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
