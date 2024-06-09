@@ -120,7 +120,7 @@ const Projects = () => {
           </div>
         </div>
 
-        <div data-aos="fade-up">
+        <div data-aos="fade-down">
           <img
             height={350}
             width={300}
