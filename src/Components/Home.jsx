@@ -1,27 +1,34 @@
 import pic from "../../public/photo.avif";
-
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { IoLogoYoutube } from "react-icons/io";
 import { FaTelegram } from "react-icons/fa6";
-
 import { SiMongodb } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { FaNodeJs } from "react-icons/fa6";
-
 import { ReactTyped } from "react-typed";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 function Home() {
+  AOS.init({
+    easing: "ease-out-quart",
+    delay: 0,
+    duration: 750,
+  });
   return (
     <>
       <div
         name="Home"
-        className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-28"
+        className="max-w-screen-2xl  container mx-auto px-4 md:px-20"
       >
-        <div className="flex flex-col md:flex-row">
+        <div
+          data-aos="fade-down"
+          className="flex flex-col md:flex-row mt-16 text-gray-400"
+        >
           <div className="md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1">
-            <span className="text-xl">Welcome To My Profile</span>
+            <span className="text-xl text-white">Welcome To My Profile</span>
             <div className="flex space-x-1 text-2xl md:text-4xl">
               <h1>Hello, Im a</h1>
               {/* <span >Developer</span> */}
@@ -34,7 +41,7 @@ function Home() {
               />
             </div>
             <br />
-            <p className="text-sm md:text-md text-justify">
+            <p className="text-sm md:text-md text-justify ">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit.
               Quisquam, recusandae consequatur. Accusamus sint libero eligendi
               laborum fuga repudiandae? Asperiores tempore eos animi dolores
@@ -89,8 +96,6 @@ function Home() {
           </div>
         </div>
       </div>
-
-      <hr />
     </>
   );
 }
