@@ -35,7 +35,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://portfolio-client-3.web.app/"
+              target="_blank"
             >
               Live Link
             </a>
@@ -45,7 +46,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://github.com/codeCampWithSifat/portfolio-project-client-3"
+              target="_blank"
             >
               Github Link
             </a>
@@ -69,7 +71,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://ticket-counter-client.vercel.app/"
+              target="_blank"
             >
               Live Link
             </a>
@@ -79,7 +82,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://github.com/codeCampWithSifat/ticket-counter-client"
+              target="_blank"
             >
               Github Link
             </a>
@@ -103,7 +107,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://portfolio-client-sayed.web.app/"
+              target="_blank"
             >
               Live Link
             </a>
@@ -113,7 +118,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://github.com/codeCampWithSifat/portfolio-client-2"
+              target="_blank"
             >
               Github Link
             </a>
@@ -137,7 +143,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://stried-assignment-1-revive-frontend.vercel.app/"
+              target="_blank"
             >
               Live Link
             </a>
@@ -147,7 +154,8 @@ const Projects = () => {
              text-gray-400
              hover:text-white	
              "
-              href=""
+              href="https://github.com/codeCampWithSifat/stried-assignment-1-revive-frontend"
+              target="_blank"
             >
               Github Link
             </a>
